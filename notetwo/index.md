@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "信息可视化学习笔记"
 date: 2018-01-03
 modified:
-excerpt: "展示这学期的网页设计作品"
+excerpt: "图表的筛选与制作"
 tags: []
 image: 
-  feature: milu-one.gif
+  feature: milu-four.gif
   teaser:
 ---
 

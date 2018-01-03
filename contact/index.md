@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "联系方式"
 date: 2018-01-03
 modified:
-excerpt: "展示这学期的网页设计作品"
+excerpt: "GitHub名：kristina579"
 tags: []
 image: 
-  feature: milu-one.gif
+  feature: wo.gif
   teaser:
 ---
 

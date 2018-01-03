@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "网页设计学习笔记"
 date: 2018-01-03
 modified:
-excerpt: "展示这学期的网页设计作品"
+excerpt: "摘出网页设计的重点"
 tags: []
 image: 
-  feature: milu-one.gif
+  feature: milu-three.gif
   teaser:
 ---
 

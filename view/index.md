@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "网页设计作品集"
+title: "信息可视化作品集"
 date: 2018-01-03
 modified:
-excerpt: "展示这学期的网页设计作品"
+excerpt: "展示这学期的信息可视化作品"
 tags: []
 image: 
-  feature: milu-one.gif
+  feature: milu-two.gif
   teaser:
 ---
 
