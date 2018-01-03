@@ -1,21 +1,26 @@
 # Site navigation links
 
-- title:网页设计作品集
-  url:/design/
-  excerpt:"感觉很高大上的网页“
-  image:milu-one.gif
-  
-  title:信息可视化作品集
-  url:/infomation/
-  excerpt:"有密集恐惧症的地图“
-  image:milu-two.gif
-  
-  title:网页设计学习笔记
-  url:/noteone/
-  excerpt:"看全英的书真的想疯“
-  image:milu-three.gif
-  
-  title:信息可视化学习笔记
-  url:/notetwo/
-  excerpt:"网新人就是这么6“
-  image:milu-four.gif
+- title: 网页设计作品集
+  url: /portfolio/
+  excerpt: "感觉很高大上的网页“
+  image: milu-one.gif
+
+- title: 信息可视化作品集
+  url: /portfolio/
+  excerpt: "有密集恐惧症的地图“
+  image: milu-two.gif
+
+- title: 网页设计学习笔记
+  url: /noteone/
+  excerpt: "看全英的书真的想疯“
+  image: milu-three.gif
+
+- title: 信息可视化学习笔记
+  url: /notetwo/
+  excerpt: "网新人就是这么6“
+  image: milu-four.gif
+
+- title: 联络我
+  url: /contact/
+  excerpt: "联络我"
+  image: wo.jpg
