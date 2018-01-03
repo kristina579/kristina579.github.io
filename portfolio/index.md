@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "网页设计作品集"
-date: 2018-01-03
+title: "学生作品集"
+date: 2017-12-30T11:40:45-04:00
 modified:
-excerpt: "展示自己所做"
+excerpt: "展示学生作品集，好的丶可改进的及有趣的"
 tags: []
 image: 
   feature: Portfolio.svg
   teaser:
 ---
 
-看起来很高大上的样子
+在此展示学生作品集，好的丶可改进的及有趣的
 
 <div class="tiles">
 {% for post in site.categories.portfolio %}
