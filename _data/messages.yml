@@ -48,6 +48,6 @@ locales:
     written_by: "撰写者"
     updated: "更新日期："
     share: "分享"
-  zh_TW:
+  zh_CN:
     <<: *DEFAULT_ZH     # use German translation for de_DE
 

@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title:网页设计作品集
+  url:/design/
+  excerpt:"感觉很高大上的网页“
+  image:300x200.gif
+  
+  title:信息可视化作品集
+  url:/infomation/
+  excerpt:"有密集恐惧症的地图“
+  image:300x200.gif
+  
+  title:网页设计学习笔记
+  url:/noteone/
+  excerpt:"看全英的书真的想疯“
+  image:300x200.gif
+  
+  title:信息可视化学习笔记
+  url:/notetwo/
+  excerpt:"网新人就是这么6“
+  image:300x200.gif
