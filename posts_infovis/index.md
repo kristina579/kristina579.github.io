@@ -6,14 +6,14 @@ modified:
 excerpt: "图表的筛选与制作"
 tags: []
 image: 
-  feature: milu-four.gif
+  feature:
   teaser:
 ---
 
 
 
 <div class="tiles">
-{% for post in site.categories.notetwo %}
+{% for post in site.categories.posts_infovis %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 notetwo 的列出來-->
+</div><!-- /.tiles 把所有categories 有 posts_infovis 的列出來-->

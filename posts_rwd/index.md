@@ -6,14 +6,14 @@ modified:
 excerpt: "摘出网页设计的重点"
 tags: []
 image: 
-  feature: milu-three.gif
+  feature:
   teaser:
 ---
 
 
 
 <div class="tiles">
-{% for post in site.categories.noteone %}
+{% for post in site.categories.posts_rwd %}
   {% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles 把所有categories 有 noteone 的列出來-->
+</div><!-- /.tiles 把所有categories 有 posts_rwd 的列出來-->

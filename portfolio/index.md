@@ -6,7 +6,7 @@ modified:
 excerpt: "展示这学期的网页设计作品"
 tags: []
 image: 
-  feature: milu-one.gif
+  feature: 
   teaser:
 ---
 
