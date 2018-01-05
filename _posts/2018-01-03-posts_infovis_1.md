@@ -4,8 +4,8 @@ title:  "信息可视化图表"
 date:   2018-01-03
 categories: posts_infovis
 image:
-  teaser: kehsihua.png
-  feature: kehsihua.png
+  teaser: visual_4.jpg
+  feature: visual_4.jpg
 ---
 做信息可视化必须知道的图表类型
 
