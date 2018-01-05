@@ -10,7 +10,7 @@ body {
 	font-family: $base-font;
 	color: $text-color;
     background-image:
-      linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 1)), 
+      linear-gradient(rgba(255, 255, 240, 0.9), rgba(255, 255, 240, 0.5)), 
       url('../images/back_1.jpg');
 	@include font-size(16);
 }
