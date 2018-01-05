@@ -71,11 +71,14 @@
 			}
 			&:after {
 				width: 0;
-				background: $black;
+				background: $GoldEnrod;
 			}
 			&:active:after,
 			&:hover:after {
 				width: 100%;
+			&:hover {
+				color: $GoldEnrod;
+				background-color：$oxfordblue
 			}
 		}
 	}
@@ -105,7 +108,7 @@
 			font-weight: 700;
 			@include font-size(16,no);
 			line-height: .5 * $masthead-height; // half the height to center vertically
-			color: $black;
+			color: #595959;
 			text-transform: uppercase;
 		}
 	}
