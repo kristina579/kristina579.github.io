@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "信息可视化图表"
+title:  "把可视化图嵌入网页里"
 date:   2018-01-06
 categories: posts_infovis
 image:
