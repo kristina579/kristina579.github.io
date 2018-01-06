@@ -3,7 +3,7 @@ layout: archive
 title: "网页设计学习笔记"
 date: 2018-01-03
 modified:
-excerpt: "课堂笔记，还有制作网页时可以用的小技巧"
+excerpt: "关于制作网页的小知识"
 tags: []
 image: 
   feature:

@@ -3,7 +3,7 @@ layout: archive
 title: "信息可视化学习笔记"
 date: 2018-01-03
 modified:
-excerpt: "图表类型及注意事项，课本重点知识"
+excerpt: "关于信息可视化的小知识"
 tags: []
 image: 
   feature:
