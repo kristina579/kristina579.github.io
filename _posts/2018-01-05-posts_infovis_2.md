@@ -21,4 +21,4 @@ image:
 ![image](https://kristina579.github.io/images/load.jpg)
 3. 复制下来，粘贴到你的notepad++上
 4. 然后根据下面贴出的代码顺序进行修改
-
+![image](https://kristina579.github.io/images/order.jpg)
