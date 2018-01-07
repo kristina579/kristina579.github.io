@@ -9,9 +9,7 @@ image:
   feature: 
   teaser:
 ---
-
-### 期末高德地图
- 
+### 高德地图
 - [链接](https://public.tableau.com/views/4_540/1?:embed=y&:display_count=yes&publish=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a520b766260c.png)
 
 
