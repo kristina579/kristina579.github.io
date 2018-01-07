@@ -7,7 +7,7 @@ image:
   teaser: visual_5.jpg
   feature: visual_5.jpg
 ---
-怎么把pubilic.tableau里面的图表嵌入网页里面
+怎么把pubilic.tableau里面的图表嵌入网页里面，需要用到仪表板或者工作簿，上传到public.tableau，然后找到分享链接，复制，在notepad++根据顺序修改。
 
 ### 操作步骤
 
