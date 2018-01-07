@@ -12,7 +12,7 @@ image:
 
 ### 期末高德地图
  
-- [link](https://public.tableau.com/views/4_540/1?:embed=y&:display_count=yes&publish=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a5208a635216.png)</a>
+- [链接](https://public.tableau.com/views/4_540/1?:embed=y&:display_count=yes&publish=yes)![仪表板.png](https://i.loli.net/2018/01/07/5a520b766260c.png)
 
 
 <div class="tiles">
